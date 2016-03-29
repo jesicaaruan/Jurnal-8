@@ -22,6 +22,7 @@ public class main {
             b=a-b;   
         }
     }
+    //edit by andyarismianto6706140009
 }
     
 
