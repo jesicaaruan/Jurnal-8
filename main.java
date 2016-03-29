@@ -22,6 +22,7 @@ public class main {
             b=a-b;   
         }
     }
+    //andyarismianto 6706140009
 }
     
 
